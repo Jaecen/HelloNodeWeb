@@ -5,4 +5,7 @@ var api = require('./api');
 
 app.get('/subtype/:subtype', api.get);
 
-app.listen(3000);
+var port = process.env.PORT || 3000;
+console.log('Application active.');
+console.log('Listening on port ' + port + '.');
+app.listen(port);
