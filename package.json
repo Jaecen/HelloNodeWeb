@@ -1,0 +1,10 @@
+{
+	"name": "HelloNodeWeb",
+	"version": "1.0.0",
+	"description": "Simple Node/Express web service",
+	"maintainers": [
+	{
+		"name": "Jason Addington",
+		"email": "jason@addington.com"
+	}
+}
