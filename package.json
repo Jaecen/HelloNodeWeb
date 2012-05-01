@@ -2,6 +2,10 @@
 	"name": "HelloNodeWeb",
 	"version": "1.0.0",
 	"description": "Simple Node/Express web service",
+	"engines": {
+		"node": "0.6.15",
+		"npm": "1.1.16"
+	},
 	"dependencies": {
 		"express": "2.5.9"
 	}
